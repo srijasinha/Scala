@@ -1,1 +1,14 @@
+1)Scala is a programing lanuage.Its a combination of Functional programing and object oriented programing langage.It is a new version of Jaava
+2)It is JVM Programming language
+3)addresses the need of modern developers
+4)is Statically typed
+5)is mixed/multi-paradigm-integrates Object-oriented and Functional programming languages smoothly
+***Object-Oriented---1)is an object-oriented language in which all values are objects
+2)does not have primitive types
+***Functional***
 
+1)Supports functional programming language features like higher-order functions, anonymous functions, nested functions, currying, etc.
+every function is an object in Scala
+6)has an elegant and flexible syntax that helps in writing concise code like modern scripting languages
+7)has an advanced type system
+8)is scalable as it can create small interpreted scripts to large sophisticated application
