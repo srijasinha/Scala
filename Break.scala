@@ -17,7 +17,7 @@ Object DoWhileLoop
                 inner.breakable{
                     for(b<-numlist1)
                     {
-                        println("The value of a is" +b)
+                        println("The value of b is" +b)
                     }
                     if (b == 4)
                 {
