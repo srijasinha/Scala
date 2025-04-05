@@ -12,3 +12,5 @@ every function is an object in Scala
 6)has an elegant and flexible syntax that helps in writing concise code like modern scripting languages
 7)has an advanced type system
 8)is scalable as it can create small interpreted scripts to large sophisticated application
+
+Note- When we extend the class in scala we use override keyword
