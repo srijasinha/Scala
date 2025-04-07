@@ -1,0 +1,14 @@
+Datawarehouse- Its a storage reporesitory where data is coming from multiple sources and centralized in a ware house is called DataWarehouse.
+Input of data - ETL operation
+
+various tools and software's - Reporting, Anylysis,Mining
+ETL -SSIS (software do ETL)
+
+Data Extraction chalenges -
+1)Complexity of Data Source
+2)Real time data Extraction
+3)Volume and velocity of Data
+4)Acess and security permissions
+5)Data qualiity and consistency
+
+star schema - It has  1 fact table (qualitive data) and multiple dimension table (descriptive data)
