@@ -1,0 +1,16 @@
+OLTP- online Transaction Processing                                    
+1)used for transaction 
+2)Read and write 
+3)Normal employee
+4)uses for day to day operation 
+5)Focuses on data in
+6)1000 of users can use
+
+
+OLAP- Online Anylatics Processing
+1)Information Anylysis
+2)Knowledgable Person
+3)Decion support
+4)Only Read
+5)Information out
+6)100 of user can use
